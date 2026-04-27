@@ -14,5 +14,5 @@ brew install marp-cli
 ### ウォッチモード -w
 
 ```
-marp -w 2026-4-28-Bukatu.md
+marp -p -w 2026-4-28-Bukatu.md
 ```
