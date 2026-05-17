@@ -16,3 +16,8 @@ brew install marp-cli
 ```
 marp -p -w 2026-4-28-Bukatu.md
 ```
+
+WSL用
+```
+PORT=8081 marp -s -w .
+```
